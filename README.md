@@ -22,7 +22,7 @@ This project is intended to showcase my skills with the above technologies and s
 
 ### Clone this repository
 
-$ git clone 
+$ git clone https://github.com/AlexCooper1/TheUpBeatPodcast.git
 
 ### Executing program
 
