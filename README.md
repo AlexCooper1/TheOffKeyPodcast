@@ -1,6 +1,6 @@
-# The OffBeat Podcast
+# The Off-Key Podcast
 
-A webpage for a podcast
+A mobile-first, responsive website, designed for the Off-Key Podcast
 
 ## Description
 
@@ -22,7 +22,7 @@ This project is intended to showcase my skills with the above technologies and s
 
 ### Clone this repository
 
-$ git clone https://github.com/AlexCooper1/TheUpBeatPodcast.git
+$ git clone https://github.com/AlexCooper1/TheOffKeyPodcast.git
 
 ### Executing program
 
